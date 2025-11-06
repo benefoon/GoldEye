@@ -24,3 +24,27 @@ This system is designed as if developed by a **senior software engineer speciali
 
 ---
 
+## ⚙️ Key Features (Planned)
+
+- **Live Market Data Collection** – Fetch real-time prices for gold, coins, and global currencies  
+- **Automated Trend Detection** – Identify upward/downward movements instantly  
+- **Interactive Dashboard** – Display prices, percentage changes, and live charts  
+- **Market News Aggregator** – Gather and summarize relevant financial news  
+- **Telegram Bot Integration** – Deliver real-time updates and trend alerts directly to a channel  
+- **Secure & Scalable Backend** – Built with FastAPI, PostgreSQL, Redis, and Docker  
+- **Compliance & Transparency** – Includes data source attribution and legal disclaimers  
+
+---
+
+## 🏗️ System Architecture (Concept Phase)
+
+Data Sources → Collector Services → Processing Layer → Database & Cache
+↓ ↓
+Telegram Bot Service REST + WebSocket API
+↓ ↓
+Telegram Channel Web Dashboard (React)
+
+
+
+---
+
