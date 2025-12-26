@@ -112,9 +112,6 @@ All market data sources will be properly attributed, and users are responsible f
 - [ ] Integrate trend detection algorithms
 - [ ] Finalize deployment (Docker + CI/CD)
 
----
-
-## 🤝 Contribution
 
 GoldEye is currently in **early development**.  
 Contributions, ideas, and issue reports are welcome once the initial structure is published.  
